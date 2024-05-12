@@ -15,8 +15,7 @@ section {
     background-color: #121321;
     color: white;
     perspective: 1000px;
-    border: 2px solid red;
-
+   
 }
 
 section::before {
